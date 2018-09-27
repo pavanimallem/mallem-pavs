@@ -1,6 +1,6 @@
-day=['sunday','monday','tuesday','wensday','thrsday','friday','saturday']
+day=['Sunday','Monday','Tuesday','Wensday','Thrsday','Friday','Saturday']
 x=raw_input()
-if(x=='saturday' or x=='sunday'):
+if(x=='Saturday' or x=='Sunday'):
   print("yes")
 else:
   print("no")
